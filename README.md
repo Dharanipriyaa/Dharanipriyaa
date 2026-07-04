@@ -36,26 +36,4 @@ I am committed to continuous learning, professional growth, and contributing to 
 
 Python • SQL • Power BI • Microsoft Excel •  MySQL • Data Analysis • Exploratory Data Analysis (EDA) • Data Cleaning • Data Visualization • Dashboard Development • KPI Analysis • Statistical Analysis • Data Modeling • ETL • Business Intelligence • Machine Learning • REST APIs • HTML • CSS • JavaScript • Git • GitHub • Jupyter Notebook • Visual Studio Code (VS Code) • Problem Solving • Pandas  • OpenCV • YOLOv8 • Flask • Analytical Thinking • Stakeholder Communication 
 
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src=""C:\Users\Dharani\Desktop\CERTIFICATES\Coursera U3ZJ3UMNWGTW.pdf"" alt="IBM Python for Data Science">
-  <img src=""C:\Users\Dharani\Desktop\CERTIFICATES\Coursera AEUW3EBRZ9HJ.pdf"" alt="IBM Big Data">
-  <img src=""C:\Users\Dharani\Desktop\CERTIFICATES\Coursera 7FC8WWQV9QK9.pdf"" alt="Duke Data Engineering">
-  <img src=""C:\Users\Dharani\Desktop\CERTIFICATES\Data visualization.pdf"" alt="Tata Data visualization">
-  <img src=""C:\Users\Dharani\Desktop\CERTIFICATES\DELOITTE DATA ANALYTICS JOB SIMULATION.pdf"" alt="Deloitte Data Analytics">
-  
 
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
-
-#### Machine Learning
-<p>
-  <img src=""C:\Users\Dharani\Desktop\CERTIFICATES\Coursera XHDGXDVC8U3C.pdf"" alt="Deeplearning.AI Machine Learning">
-  <img src=""C:\Users\Dharani\Desktop\CERTIFICATES\Coursera KFVXXPMKBMTQ.pdf"" alt="Deeplearning.AI ML&DL">
-  <img src=""C:\Users\Dharani\Desktop\CERTIFICATES\Coursera 2QSP4N8OU31J.pdf"" alt="University of GLasgow Deep Learning">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
